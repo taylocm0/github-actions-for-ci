@@ -3,7 +3,7 @@ const fs = require('fs')
 
 describe('App', () => {
   it('Contains the compiled JavaScript', async (done) => {
-      done()
+    done()
   })
 })
 
