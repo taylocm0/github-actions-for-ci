@@ -3,7 +3,7 @@ const Game = require('../src/game').default
 describe('App', () => {
   it('Contains the compiled JavaScript', 
     done()
-})
+)
 
 describe('Game', () => {
   let game, p1, p2
