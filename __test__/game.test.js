@@ -1,9 +1,8 @@
 const Game = require('../src/game').default
 
 describe('App', () => {
-  it('Contains the compiled JavaScript', async (done) => {
+  it('Contains the compiled JavaScript', 
     done()
-  })
 })
 
 describe('Game', () => {
